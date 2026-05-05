@@ -135,7 +135,9 @@ body, html{
 .whatsapp-btn{
     display: inline-flex;      
     background-color: #25D366;   
-    color: white;                 
+    justify-content: center;
+    color: white;   
+    width: 34%;              
     padding: 10px ;          
     border-radius: 5px;           
     text-decoration: none;       
